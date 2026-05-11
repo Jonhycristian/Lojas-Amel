@@ -21,13 +21,6 @@ O site foi projetado para ser responsivo, rápido e altamente otimizado para a c
 
 > **Status do Projeto:** Concluído ✅
 
-## 📸 Screenshot
-
-<!-- Dica: Tire um print do seu site bonito e coloque na pasta img/ como 'screenshot.png' depois substitua o link abaixo pelo caminho da sua imagem -->
-<div align="center">
-  <img src="https://via.placeholder.com/800x450/eeeeee/333333?text=Insira+a+Screenshot+do+Site+Aqui" alt="Screenshot do site" width="800">
-</div>
-
 ## � Tecnologias Utilizadas
 
 - **HTML5:** Estrutura semântica e acessível.
